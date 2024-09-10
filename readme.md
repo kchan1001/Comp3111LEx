@@ -1,3 +1,3 @@
-This is COMP3111 lab 1.
+COMP3111 has to be a fun course.
 `&nbsp;&nbsp;`
-![Really a fun course](/Screenshot%202024-09-10%20153147.png)
+![Really a fun course](/Screenshot%202024-09-10%154400.png)
